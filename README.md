@@ -6,4 +6,6 @@ Adobe Photoshop | Adobe Illustrator | Adobe XD
 
 Git | HTML | CSS | Javascript| Front-End | Back-End | data structure | database | Algorithms | ES6 | Boostrap | Less | React | Redux | Testing | Node | Express js | SQL | PostgreSQL | Sequelize | 
 
-📫<p> <a href="hernandezdionisiooscar@gmail.com">Email</a></p><p> <a href="hernandezdionisiooscar@gmail.com">LinkedIn</a></p>
+📫
+- [Linkedin](https://www.linkedin.com/in/dionisioarg/)
+- [Email](hernandezdionisiooscar@gmail.com)
