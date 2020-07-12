@@ -5,7 +5,7 @@ Me considero una persona sociable, emprendedora, curiosa y resiliente. Me encant
 
 Tengo conocimientos en Adobe Photoshop, Adobe Illustrator y Adobe XD
 
-👯 Git | HTML | CSS Avanzado | Javascript Avanzado| Front-End | Back-End | Estructura de datos | Base de datos | Algoritmos | ES6 | Boostrap | Less | React | Redux | Testing | Node | Express js | SQL | PostgreSQL | Sequelize | 
+Git | HTML | CSS Avanzado | Javascript Avanzado| Front-End | Back-End | Estructura de datos | Base de datos | Algoritmos | ES6 | Boostrap | Less | React | Redux | Testing | Node | Express js | SQL | PostgreSQL | Sequelize | 
 
 📫
 Email: hernandezdionisiooscar@gmail.com
