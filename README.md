@@ -1,5 +1,5 @@
 ### Buenas! 👋
-Mi nombre es Dionisio Herndez, esoty abierto a nuevas oportunidades como Frontend Developer y diseñador gráfico. Soy muy observador, responsable, obstinado y colaborativo. 
+Mi nombre es Dionisio Herndez, estoy abierto a nuevas oportunidades como Frontend Developer y diseñador gráfico. Soy muy observador, responsable, obstinado y colaborativo. 
 🌱 Me encanta aprender nuevas habilidades y conocimientos, estar en constante crecimiento profesional.
 Me considero una persona sociable, emprendedora, curiosa y resiliente. Me encanta trabajar en equipo, aprovechar al máximo la experiencia, y sacar la mejor parte de cada uno de mis compañeros.
 
