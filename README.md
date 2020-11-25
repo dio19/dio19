@@ -4,6 +4,6 @@
 
 Adobe Photoshop | Adobe Illustrator | Adobe XD
 
-Git | HTML | CSS | Javascript| Front-End | Back-End | data structure | database | Algorithms | ES6 | Boostrap | Less | React | Redux | Testing | Node | Express js | SQL | PostgreSQL | Sequelize | 
+Git | HTML | CSS | Javascript| Front-End | Back-End | data structure | database | Algorithms | ES6 | Boostrap | Material UI | Less | React | Redux | Testing | Node | Express js | SQL | PostgreSQL | Sequelize |
 
 📫 You can reach me at hernandezdionisiooscar@gmail.com - [Linkedin](https://www.linkedin.com/in/dionisioarg/)
