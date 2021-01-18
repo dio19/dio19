@@ -6,7 +6,7 @@ Adobe Photoshop | Adobe Illustrator | Adobe XD
 
 ### Things I code with
 <p>
-  <img alt="React" src="https://img.shields.io/badge/-React-ffffff?style=flat-square&logo=React&logoColor=black" />
+  <img alt="React" src="https://img.shields.io/badge/-React-00cec9?style=flat-square&logo=React&logoColor=black" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
   <img alt="Redux" src="https://img.shields.io/badge/-Redux-red?style=flat-square&logo=Redux&logoColor=white" />
   <img alt="MaterialUI" src="https://img.shields.io/badge/Material--UI-blue?style=flat-square&logo=Material--UI&logoColor=white" />
