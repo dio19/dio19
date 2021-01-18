@@ -12,14 +12,12 @@ Adobe Photoshop | Adobe Illustrator | Adobe XD
   <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-2088FF?style=flat-square&logo=MySQL&logoColor=white" />
   <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-4834d4?style=flat-square&logo=PostgreSQL&logoColor=white" />
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
-  <img alt="Firebase" src="https://img.shields.io/badge/-Firebase-F7B93E?style=flat-square&logo=Fibase&logoColor=white" />
-  <img alt="Material-UI" src="https://img.shields.io/badge/-Material-UI-be2edd?style=flat-square&logo=material--ui&logoColor=white" />
-  <img alt="C#" src="https://img.shields.io/badge/-C%23-E10098?style=flat-square&logo=c#&logoColor=white" />
-  <img alt="Java" src="https://img.shields.io/badge/-Java-ea2845?style=flat-square&logo=java&logoColor=white" />
+  <img alt="Firebase" src="https://img.shields.io/badge/-Firebase-F7B93E?style=flat-square&logo=Firebase&logoColor=white" />
+  <img alt="Material-UI" src="https://img.shields.io/badge/-Material-UI-be2edd?style=flat-square&logo=materialui&logoColor=white" />
   <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img alt="IntelliJ" src="https://img.shields.io/badge/-IntelliJ-000000?style=flat-square&logo=intellij-idea&logoColor=white" />
 </p>
 
-Git | HTML | CSS | Javascript| Front-End | Back-End | data structure | database | Algorithms | ES6 | Boostrap | Material UI | Less | React | Redux | Testing | Node | Express js | SQL | PostgreSQL | Sequelize |
+Git | Advanced HTML | Advanced CSS | Advanced Javascript | React | Redux | Material UI | Less | Testing | Node JS | Express JS | SQL | PostgreSQL | Sequelize | Firebase | Mongo DB
 
 📫 You can reach me at hernandezdionisiooscar@gmail.com - [Linkedin](https://www.linkedin.com/in/dionisioarg/)
