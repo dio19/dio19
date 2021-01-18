@@ -8,8 +8,8 @@ Adobe Photoshop | Adobe Illustrator | Adobe XD
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-00cec9?style=flat-square&logo=React&logoColor=black" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
-  <img alt="Redux" src="https://img.shields.io/badge/-Redux-2088FF?style=flat-square&logo=Redux&logoColor=white" />
-  <img alt="MaterialUI" src="https://img.shields.io/badge/Material--UI-blue?style=flat-square&logo=material--ui&logoColor=white" />
+  <img alt="Redux" src="https://img.shields.io/badge/-Redux-red?style=flat-square&logo=Redux&logoColor=white" />
+  <img alt="MaterialUI" src="https://img.shields.io/badge/Material--UI-blue?style=flat-square&logo=Material--UI&logoColor=white" />
   <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-000000?style=flat-square&logo=MySQL&logoColor=white" />
   <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-4834d4?style=flat-square&logo=PostgreSQL&logoColor=white" />
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
