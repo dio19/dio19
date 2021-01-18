@@ -9,13 +9,12 @@ Adobe Photoshop | Adobe Illustrator | Adobe XD
   <img alt="React" src="https://img.shields.io/badge/-React-00cec9?style=flat-square&logo=React&logoColor=black" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
   <img alt="Redux" src="https://img.shields.io/badge/-Redux-2088FF?style=flat-square&logo=Redux&logoColor=white" />
-  <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-2088FF?style=flat-square&logo=MySQL&logoColor=white" />
+  <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-000000?style=flat-square&logo=MySQL-idea&logoColor=white" />
   <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-4834d4?style=flat-square&logo=PostgreSQL&logoColor=white" />
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
   <img alt="Firebase" src="https://img.shields.io/badge/-Firebase-F7B93E?style=flat-square&logo=Firebase&logoColor=white" />
-  <img alt="Material-UI" src="https://img.shields.io/badge/-Material-UI-be2edd?style=flat-square&logo=materialui&logoColor=white" />
+  <img alt="Material-UI" src="https://img.shields.io/badge/-Material-UI-be2edd?style=flat-square&logo=material--ui&logoColor=white" />
   <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img alt="IntelliJ" src="https://img.shields.io/badge/-IntelliJ-000000?style=flat-square&logo=intellij-idea&logoColor=white" />
 </p>
 
 Git | Advanced HTML | Advanced CSS | Advanced Javascript | React | Redux | Material UI | Less | Testing | Node JS | Express JS | SQL | PostgreSQL | Sequelize | Firebase | Mongo DB
