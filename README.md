@@ -9,7 +9,7 @@ Adobe Photoshop | Adobe Illustrator | Adobe XD
   <img alt="React" src="https://img.shields.io/badge/-React-00cec9?style=flat-square&logo=React&logoColor=black" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
   <img alt="Redux" src="https://img.shields.io/badge/-Redux-2088FF?style=flat-square&logo=Redux&logoColor=white" />
-  <img alt="Material-UI" src="https://img.shields.io/badge/-Material-UI-2088FF?style=flat-square&logo=MaterialUI&logoColor=white" />
+  <img alt="Material-UI" src="https://img.shields.io/badge/-Material-UI-2088FF?style=flat-square&logo=Material--UI&logoColor=white" />
   <img alt="Github actions" src="https://img.shields.io/badge/-Github_Actions-4834d4?style=flat-square&logo=github-actions&logoColor=white" />
   <img alt="C" src="https://img.shields.io/badge/-C-be2edd?style=flat-square&logo=c&logoColor=white" />
   <img alt="C#" src="https://img.shields.io/badge/-C%23-E10098?style=flat-square&logo=c#&logoColor=white" />
