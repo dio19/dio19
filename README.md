@@ -13,7 +13,7 @@ Adobe Photoshop | Adobe Illustrator | Adobe XD
   <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-4834d4?style=flat-square&logo=PostgreSQL&logoColor=white" />
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
   <img alt="Firebase" src="https://img.shields.io/badge/-Firebase-F7B93E?style=flat-square&logo=Firebase&logoColor=white" />
-  <img alt="Material-UI" src="https://img.shields.io/badge/-Material-UI-be2edd?style=flat-square&logo=material&logoColor=white" />
+  <img alt="Material-UI" src="https://img.shields.io/badge/-Material-UI-be2edd?style=flat-square&logo=material-design&logoColor=white" />
   <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
 </p>
 
