@@ -1,8 +1,6 @@
 ### Hi there 👋 My name is Dionisio.
-#opentowork FullStack Developer and Graphic Designer/ sharp-eyed, responsible, sociable, collaborative, enterprising and resilient.
+I am FullStack Developer/ sharp-eyed, responsible, sociable, collaborative, enterprising and resilient.
 🌱 love learning new skills and knowledge / in a teamwork I always seek to exalt the best version of each of my colleagues. 
-
-Adobe Photoshop | Adobe Illustrator | Adobe XD
 
 ### Things I code with
 <p>
