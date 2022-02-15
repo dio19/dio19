@@ -21,6 +21,6 @@ Adobe Photoshop | Adobe Illustrator | Adobe XD
   <img alt="Storybook" src="https://img.shields.io/badge/-Storybook-FF4785?style=flat-square&logo=storybook&logoColor=white" />
 </p>
 
-Git | Advanced HTML | Advanced CSS | Advanced Javascript | React | Redux | Material UI | Less | Testing | Node JS | Express JS | SQL | PostgreSQL | Sequelize | Firebase | Mongo DB
+Git | Advanced HTML | Advanced CSS | Advanced Javascript | Python | React | Redux | Material UI | Less | Sass | Jest | React testing library | Storybook | Node JS | Express JS | SQL | PostgreSQL | Sequelize | Firebase | Mongo DB
 
 📫 You can reach me at hernandezdionisiooscar@gmail.com - [Linkedin](https://www.linkedin.com/in/dionisioarg/)
